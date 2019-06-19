@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "Ddil's Blog"
 title_separator          : "-"
 name                     : "Ddil"
-description              : "An amazing website."
+description              : ""
 url                      : "https://ddilddil.github.io"
 baseurl                  : ""
 repository               : "ddilddil/ddilddil.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -290,6 +290,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
